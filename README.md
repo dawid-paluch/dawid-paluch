@@ -9,6 +9,7 @@ I'm developing on the knowledge that I've got for Python, Java, HTML, CSS and Ja
 
 ### 📫 How to reach me: ...
 Email: dawid1paluch@gmail.com
+
 LinkedIn: www.linkedin.com/in/dawidpaluch/
 <!--
 **dawid-paluch/dawid-paluch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
